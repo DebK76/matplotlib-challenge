@@ -7,3 +7,6 @@ Once all the duplicates were filtered and dropped
 I began to parse my data using various methods beginning with a summary statistic table to show the (mean, median, variance, standard deviation and the SEM) of the tumor volume to aggregate the data to display the results of each of the drug regimen statss
 Once that was completed I used other methods such as bar & pie chart, box plot, and scatter plots using pandas and pyplot to visualize the distribution of the data.
 Lastly, concluding whether any of the particular drug regimen had any positive correlation on tumor growth, survival rates and metastatic sites in mice.
+The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+
+Note: 
