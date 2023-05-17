@@ -9,4 +9,4 @@ Once that was completed I used other methods such as bar & pie chart, box plot, 
 Lastly, concluding whether any of the particular drug regimen had any positive correlation on tumor growth, survival rates and metastatic sites in mice.
 The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-Note: 
+Note: For transparency purposes, please know that I sought help for clarity from my peers and sourced codes syntax I did not author or create from online forums such as Stack Overflow, and the pandas doumentation site www.pandas.pydata.org
